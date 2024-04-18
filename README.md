@@ -1,4 +1,6 @@
 # DisneyAlarmClock
+1. Justin Aurelius Dani (Main Programmer)
+2. Putra Praditya Hayantoro (Collaborator)
 **Alarm clock app with 2 challenges**
 
 
